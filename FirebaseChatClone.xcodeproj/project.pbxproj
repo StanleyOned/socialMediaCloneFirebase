@@ -17,7 +17,6 @@
 		4B1F33BE2AE7354900F0F7D8 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1F33BD2AE7354900F0F7D8 /* LoginView.swift */; };
 		4B1F33C02AE7354B00F0F7D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1F33BF2AE7354B00F0F7D8 /* Assets.xcassets */; };
 		4B1F33C42AE7354B00F0F7D8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1F33C32AE7354B00F0F7D8 /* Preview Assets.xcassets */; };
-		4B1F33F22AE74CAB00F0F7D8 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4B1F33F12AE74CAB00F0F7D8 /* GoogleService-Info.plist */; };
 		4B1F33F42AE7510E00F0F7D8 /* FirebaseService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1F33F32AE7510E00F0F7D8 /* FirebaseService.swift */; };
 		4B1F33F62AE808E300F0F7D8 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1F33F52AE808E300F0F7D8 /* ImagePicker.swift */; };
 		4B1F33F92AE81EA300F0F7D8 /* FirebaseAnalyticsSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 4B1F33F82AE81EA300F0F7D8 /* FirebaseAnalyticsSwift */; };
@@ -77,7 +76,6 @@
 		4B1F33BF2AE7354B00F0F7D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4B1F33C12AE7354B00F0F7D8 /* FirebaseChatClone.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = FirebaseChatClone.entitlements; sourceTree = "<group>"; };
 		4B1F33C32AE7354B00F0F7D8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		4B1F33F12AE74CAB00F0F7D8 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		4B1F33F32AE7510E00F0F7D8 /* FirebaseService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseService.swift; sourceTree = "<group>"; };
 		4B1F33F52AE808E300F0F7D8 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
 		4B1F34282AE8578200F0F7D8 /* MainMessagesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMessagesView.swift; sourceTree = "<group>"; };
@@ -166,7 +164,6 @@
 				4B60BCE52AEF45A900C04DEB /* Utils  */,
 				4B1F33BF2AE7354B00F0F7D8 /* Assets.xcassets */,
 				4B1F33C12AE7354B00F0F7D8 /* FirebaseChatClone.entitlements */,
-				4B1F33F12AE74CAB00F0F7D8 /* GoogleService-Info.plist */,
 				4B1F33C22AE7354B00F0F7D8 /* Preview Content */,
 			);
 			path = FirebaseChatClone;
@@ -371,7 +368,6 @@
 			files = (
 				4B1F33C42AE7354B00F0F7D8 /* Preview Assets.xcassets in Resources */,
 				4B1F33C02AE7354B00F0F7D8 /* Assets.xcassets in Resources */,
-				4B1F33F22AE74CAB00F0F7D8 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
