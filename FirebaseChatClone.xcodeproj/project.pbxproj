@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B13755E2BD310EC00360F9F /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4B13755D2BD310EC00360F9F /* GoogleService-Info.plist */; };
 		4B13F2CA2BC5DEE200FEA194 /* FeedCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B13F2C92BC5DEE200FEA194 /* FeedCell.swift */; };
 		4B13F2CC2BC5DF0600FEA194 /* CustomVideoPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B13F2CB2BC5DF0600FEA194 /* CustomVideoPlayer.swift */; };
 		4B13F2CE2BC5DF3A00FEA194 /* ReelPost.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B13F2CD2BC5DF3A00FEA194 /* ReelPost.swift */; };
@@ -65,6 +66,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B13755D2BD310EC00360F9F /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		4B13F2C92BC5DEE200FEA194 /* FeedCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedCell.swift; sourceTree = "<group>"; };
 		4B13F2CB2BC5DF0600FEA194 /* CustomVideoPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomVideoPlayer.swift; sourceTree = "<group>"; };
 		4B13F2CD2BC5DF3A00FEA194 /* ReelPost.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReelPost.swift; sourceTree = "<group>"; };
@@ -163,6 +165,7 @@
 				4B1F34352AEC7A8B00F0F7D8 /* Service */,
 				4B60BCE52AEF45A900C04DEB /* Utils  */,
 				4B1F33BF2AE7354B00F0F7D8 /* Assets.xcassets */,
+				4B13755D2BD310EC00360F9F /* GoogleService-Info.plist */,
 				4B1F33C12AE7354B00F0F7D8 /* FirebaseChatClone.entitlements */,
 				4B1F33C22AE7354B00F0F7D8 /* Preview Content */,
 			);
@@ -368,6 +371,7 @@
 			files = (
 				4B1F33C42AE7354B00F0F7D8 /* Preview Assets.xcassets in Resources */,
 				4B1F33C02AE7354B00F0F7D8 /* Assets.xcassets in Resources */,
+				4B13755E2BD310EC00360F9F /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
